@@ -1,8 +1,8 @@
-target: "3CL-PRO protease activity"
+target: "3CLpro protease activity"
 description: >
-  3CL-PRO (main protease, M-PRO, etc) is a viral cysteine protease
+  3CLpro (main protease, M-PRO, etc) is a viral cysteine protease
   responsible for maturation of the viral polyprotein, necessary for
-  infection. Target of many drug discovery campaigns. 3CL-PRO is an
+  infection. Target of many drug discovery campaigns. 3CLpro is an
   obligate dimer, although many drug design efforts just use a monomer
   structure.
 protein:
